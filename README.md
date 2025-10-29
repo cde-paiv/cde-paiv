@@ -7,6 +7,7 @@
 I'm a developer currently studying at **42 Porto**, with experience in **C, C++ and Python**.  
 I focus on writing clean and structured code, while continuously learning new tools and technologies to grow as a software engineer.
 
+- 📫 How to reach me **motachristofer@gmail.com**
 ---
 
 <div align="center">
