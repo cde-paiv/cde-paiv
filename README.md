@@ -11,10 +11,8 @@ I focus on writing clean and structured code, while continuously learning new to
 ---
 
 <p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=cde-paiv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800&v=11)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cde-paiv&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800&v=11)
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cde-paiv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&v=12" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cde-paiv&layout=compact&langs_count=8&theme=dracula&hide_border=false&v=12" height="165" />
 </p>
 
 
